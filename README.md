@@ -1,5 +1,7 @@
 ### Hello there!
 
+[![roofline.dev](https://roofline.dev/api/users/ktnlvr/badge.svg)](https://roofline.dev/users/ktnlvr)
+
 I'm Arthur, a systems programmer with interest in high-availability software, compiler/language design and computer graphics. Proud Rust enjoyer. [Look at what I write](https://ktnlvr.dev) or [hire me](https://ktnlvr.dev/cv.pdf).
 
 1. Daily I use **Rust, C/C++, Python**.
